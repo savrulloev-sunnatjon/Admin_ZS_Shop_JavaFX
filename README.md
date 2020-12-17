@@ -1,1 +1,1 @@
-![Screens](https://drive.google.com/file/d/1kzn2tYIppTvAbJtV9QsobaUHPqse5P2t/view)
+![Screens](https://github.com/savrulloev-sunnatjon/Admin_ZS_Shop_JavaFX/screens/1.png)
